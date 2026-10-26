@@ -1,8 +1,7 @@
 # CUDDLECAST
 
 A zine about the bats of the Jordan River in Salt Lake City, and about the
-boxes people hang for them. №01 is the Bat Week issue, first handed out at
-Alt Press Fest at the Salt Lake City Main Library on 17 October 2026.
+boxes people hang for them. №01 is the Bat Week issue, October 2026.
 
 This repository is the site the zine's back cover points at:
 ampactor.dev/cuddlecast/01/ for №01, /02/ for the next, and so on. GitHub
@@ -20,3 +19,6 @@ Cuddlecast pilot, which will put temperature loggers in 30 to 40 boxes on
 the river.
 
 Write: ampactorlabs@gmail.com
+
+The placeholder pages are set in Anton and Space Mono, both under the SIL
+Open Font License; the faces and their licences are in `fonts/`.
